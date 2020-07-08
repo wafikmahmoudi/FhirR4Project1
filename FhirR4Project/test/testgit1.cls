@@ -10,9 +10,12 @@ Method OnProcessInput(pInput As %RegisteredObject, Output pResponse As HS.Messag
 	
 	//test git wafik test1
 	
+	//modif 2
+	
    
 		Quit 1
 }
+
 
 
 
@@ -29,6 +32,8 @@ Method OnProcessInput(pInput As %RegisteredObject, Output pResponse As HS.Messag
 		$$$LOGINFO("1111111111111111111111111111111111111111111111111111111111111111111111")
 	
 	//test git wafik test1
+	
+	//modif 2
 	
    
 		Quit 1
